@@ -1,0 +1,15 @@
+.history-board{
+    height: 100vh;
+    width: 800px;
+    overflow: hidden;
+    padding: 100px 0px !important;
+}
+.tablee{
+    overflow-y: scroll;
+    overflow-x:hidden ;
+    border-radius: 10px !important;
+    width: 800px;
+    height: 100%;
+    background: #242631;
+    color: white;
+}
